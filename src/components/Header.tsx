@@ -1,7 +1,6 @@
 
 import { Link } from '@tanstack/react-router'
 import { Github, Linkedin } from 'lucide-react'
-import ThemeToggle from './ThemeToggle'
 
 export default function Header() {
   return (
@@ -50,7 +49,6 @@ export default function Header() {
             >
               <Linkedin size={20} />
             </a>
-            <ThemeToggle />
           </div>
           <Link
             to="/"

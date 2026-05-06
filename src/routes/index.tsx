@@ -94,17 +94,17 @@ function App() {
             <SkillCard 
               icon={<Layout size={24} />} 
               title="Frontend" 
-              skills={['Vue.js', 'Responsive Design', 'HTML5 / CSS3', 'JavaScript']} 
+              skills={['Vue.js', 'HTML5 / CSS3', 'JavaScript']} 
             />
             <SkillCard 
               icon={<Database size={24} />} 
               title="Database & VCS" 
-              skills={['MySQL / PostgreSQL', 'Redis', 'Git / GitHub', 'Version Control']} 
+              skills={['MySQL / PostgreSQL', 'Git / GitHub', 'Version Control']} 
             />
             <SkillCard 
               icon={<Cloud size={24} />} 
               title="DevOps" 
-              skills={['AWS Deployment', 'Linux Server', 'CI/CD Best Practices', 'Security']} 
+              skills={['AWS Deployment', 'Linux Server']} 
             />
           </div>
         </div>
