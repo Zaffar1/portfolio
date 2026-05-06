@@ -127,7 +127,7 @@ function App() {
               title="Behtereen (OLX Clone)" 
               desc="A high-traffic marketplace application featuring classified listings, real-time messaging, and complex user interactions."
               tags={['Laravel', 'MySQL', 'Real-time', 'Classifieds']}
-              link="https://app.behtreen.pk"
+              link="https://staging.behtereen.pk/"
             />
             <ProjectCard 
               title="Angelz" 
