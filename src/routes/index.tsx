@@ -94,7 +94,7 @@ function App() {
             <SkillCard 
               icon={<Layout size={24} />} 
               title="Frontend" 
-              skills={['Vue.js', 'HTML5 / CSS3', 'JavaScript']} 
+              skills={['React JS', 'Tailwind CSS', 'TanStack', 'Vue.js', 'JavaScript']} 
             />
             <SkillCard 
               icon={<Database size={24} />} 
