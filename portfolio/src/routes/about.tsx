@@ -1,6 +1,6 @@
 
 import { createFileRoute } from '@tanstack/react-router'
-import { User, Code, Heart, Coffee, GraduationCap, Languages } from 'lucide-react'
+import { User, Code, GraduationCap, Languages } from 'lucide-react'
 
 export const Route = createFileRoute('/about')({
   component: About,
